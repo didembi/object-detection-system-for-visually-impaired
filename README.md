@@ -1,6 +1,5 @@
 # Görme Engelliler İçin Akıllı Yardımcı Sistem
 
-![Proje Banner](images/banner.jpg)
 
 Görme engelli bireylerin günlük yaşamlarında bağımsız hareket edebilmeleri için tasarlanmış, yapay zeka destekli bir yardımcı sistemdir. Ultrasonik sensör ve bilgisayarlı görü teknolojileri kullanarak çevredeki nesneleri algılar ve kullanıcıyı sesli olarak bilgilendirir.
 
@@ -17,7 +16,7 @@ Görme engelli bireylerin günlük yaşamlarında bağımsız hareket edebilmele
 
 | Donanım | Arayüz | Çalışma Anı |
 |---------|--------|-------------|
-| ![Arduino Setup](images/arduino-setup.jpg) | ![GUI](images/gui-screenshot.jpg) | ![Demo](images/working-demo.jpg) |
+| ![Arduino Setup](images/arduino-setup.jpg) | ![GUI](images/gui-screenshot.png) | ![GUI](images/gui-screenshot2.png)
 
 ---
 
@@ -53,7 +52,7 @@ Görme engelli bireylerin günlük yaşamlarında bağımsız hareket edebilmele
 | Pin 11 | Ultrasonik Echo |
 | Pin 12 | Buzzer |
 
-![Devre Şeması](images/circuit-diagram.png)
+![Devre Şeması](images/arduino-setup.jpg)
 
 ---
 
@@ -118,7 +117,6 @@ python src/main.py
 
 ## 💡 Kullanım
 
-![Kullanım Adımları](images/usage-steps.gif)
 
 1. Programı çalıştırdığınızda açılış ekranı görünecektir
 2. **"Başlat"** butonuna tıklayın
